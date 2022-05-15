@@ -3,5 +3,21 @@
     "0x3cd266509d127d0eac42f4474f57d0526804b44e": {
       "url": "https://buildspace.so/"
     }
-  }
+  },
+  "polygon": {
+    "0x1Ed25648382c2e6Da067313e5DAcb4F138Bc8b33": {
+      "url": "https://www.learnweb3.io/",
+      "token_ids": [
+        {
+          "id": 0,
+          "url": ""
+        },
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+      ]
+    }
 }
