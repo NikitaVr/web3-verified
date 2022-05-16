@@ -10,13 +10,15 @@
       "token_ids": [
         {
           "id": 0,
-          "url": ""
+          "url": "https://opensea.io/assets/matic/0x1ed25648382c2e6da067313e5dacb4f138bc8b33/0"
         },
         {
-          "id": 1
+          "id": 1,
+          "url": "https://opensea.io/assets/matic/0x1ed25648382c2e6da067313e5dacb4f138bc8b33/1"
         },
         {
-          "id": 2
+          "id": 2,
+          "url": "https://opensea.io/assets/matic/0x1ed25648382c2e6da067313e5dacb4f138bc8b33/2"
         },
       ]
     }
